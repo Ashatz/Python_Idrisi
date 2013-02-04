@@ -1,6 +1,3 @@
-#I'm tired of fucking shit with Idrisi and python. This is my lib of
-#Idrisi modules.
-#
 #D. Russell Sands.
 
 import sys
